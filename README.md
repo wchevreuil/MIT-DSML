@@ -9,4 +9,4 @@ The related online portfolio is available [here](https://www.mygreatlearning.com
 
 ### 3) [Predicting converting leads](https://github.com/wchevreuil/MIT-DSML/blob/main/notebooks/PotentialCustomersPrediction.ipynb).
 
-### 4) [FoodHub Data Analysis]().
+### 4) [FoodHub Data Analysis](https://github.com/wchevreuil/MIT-DSML/blob/main/notebooks/FDS_Project_LearnerNotebook_FullCode_Completed.ipynb).
