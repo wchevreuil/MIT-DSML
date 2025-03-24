@@ -7,6 +7,6 @@ The related online portfolio is available [here](https://www.mygreatlearning.com
 
 ### 2) [Recommending products to customers based on their previous ratings for other products](https://github.com/wchevreuil/MIT-DSML/blob/main/notebooks/Recommendation_Systems_Learner_Notebook_Full_Code.ipynb).
 
-### 3) [Predicting converting leads]().
+### 3) [Predicting converting leads](https://github.com/wchevreuil/MIT-DSML/blob/main/notebooks/PotentialCustomersPrediction.ipynb).
 
 ### 4) [FoodHub Data Analysis]().
